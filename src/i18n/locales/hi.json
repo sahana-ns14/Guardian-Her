@@ -1,0 +1,71 @@
+{
+    "common": {
+        "loading": "लोड हो रहा है...",
+        "next": "आगे",
+        "back": "पीछे",
+        "save": "सहेजें",
+        "cancel": "रद्द करें",
+        "finish": "समाप्त"
+    },
+    "onboarding": {
+        "welcome_title": "गार्डियन-हर",
+        "welcome_subtitle": "आप यहाँ सुरक्षित हैं।",
+        "welcome_note": "आप अकेले नहीं हैं, हम आपके साथ हैं।",
+        "intro_text": "गार्डियन-हर आपका देखभाल करने वाला साथी है, जो आपको सुरक्षित रखने के लिए बनाया गया है।",
+        "get_started": "अभी शुरू करें",
+        "sign_in": "साइन इन करें",
+        "create_account": "नया खाता बनाएं",
+        "guest_setup": "या गेस्ट सेटअप के साथ आगे बढ़ें →",
+        "setup_title": "आइए आपको जानें",
+        "name_label": "आपका नाम",
+        "phone_label": "आपका फोन नंबर",
+        "contacts_label": "विश्वसनीय संपर्क (1-8)",
+        "location_perm": "स्थान अनुमति",
+        "setup_complete": "सेटअप पूरा हुआ। मैं आपकी रक्षा करूंगा।",
+        "footer_credits": "यशस.एम, सहाना एनएस, विष्णु आर और सम्हिता पी द्वारा निर्मित",
+        "footer_tagline": "दुनिया भर में महिलाओं की सुरक्षा के लिए!"
+    },
+    "auth": {
+        "sign_in_tab": "साइन इन",
+        "create_account_tab": "खाता बनाएं",
+        "email_phone_label": "ईमेल या फोन नंबर",
+        "password_label": "पासवर्ड",
+        "full_name_label": "पूरा नाम",
+        "confirm_password_label": "पासवर्ड की पुष्टि करें",
+        "forgot_password": "पासवर्ड भूल गए?",
+        "remember_me": "इस डिवाइस पर मुझे याद रखें",
+        "demo_login": "डेमो साइन इन (1-क्लिक)",
+        "passwords_match": "✓ पासवर्ड मेल खाते हैं",
+        "passwords_mismatch": "✕ पासवर्ड मेल नहीं खाते",
+        "password_strength": "पासवर्ड की मजबूती",
+        "sign_in_button": "साइन इन करें",
+        "register_button": "खाता बनाएं",
+        "back_to_welcome": "← वेलकम स्क्रीन पर वापस जाएं"
+    },
+    "home": {
+        "sos_button": "एसओएस (SOS)",
+        "im_safe": "मैं सुरक्षित हूँ",
+        "safer_routes": "सुरक्षित मार्ग",
+        "emergency_support": "आपातकालीन सहायता",
+        "check_in": "चेक-इन टाइमर",
+        "chatbot": "सुरक्षा साथी",
+        "report": "सुरक्षा रिपोर्टिंग",
+        "quick_status": "त्वरित स्थिति",
+        "recent_reports": "हाल की सुरक्षा रिपोर्ट",
+        "no_incidents": "आपके क्षेत्र में कोई हालिया घटना दर्ज नहीं हुई है।",
+        "submit_report": "रिपोर्ट प्रस्तुत करें"
+    },
+    "sos": {
+        "help_msg": "मदद रास्ते में है। शांत रहें।",
+        "alert_sent": "विश्वसनीय संपर्कों को अलर्ट भेजा गया",
+        "cancel": "एसओएस रद्द करें"
+    },
+    "profile": {
+        "title": "मेरी प्रोफाइल",
+        "medical_notes": "चिकित्सा संबंधी नोट्स",
+        "no_medical_notes": "कोई नोट नहीं जोड़ा गया।",
+        "trusted_contacts": "विश्वसनीय संपर्क",
+        "no_contacts": "कोई संपर्क नहीं जोड़ा गया।",
+        "sign_out": "साइन आउट / लॉग आउट"
+    }
+}

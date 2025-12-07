@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-cream-50 text-charcoal-800 antialiased overflow-x-hidden transition-colors duration-300;
+  }
+  
+  .dark body {
+    @apply bg-charcoal-900 text-cream-50;
+  }
+
+  /* Custom Scrollbar for a softer look */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-lavender-300 rounded-full;
+  }
+  .dark ::-webkit-scrollbar-thumb {
+    @apply bg-charcoal-700;
+  }
+}

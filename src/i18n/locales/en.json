@@ -1,0 +1,71 @@
+{
+    "common": {
+        "loading": "Loading...",
+        "next": "Next",
+        "back": "Back",
+        "save": "Save",
+        "cancel": "Cancel",
+        "finish": "Finish"
+    },
+    "onboarding": {
+        "welcome_title": "Guardian-Her",
+        "welcome_subtitle": "You're safe here.",
+        "welcome_note": "You're not alone, we're here with you.",
+        "intro_text": "Guardian-Her is your caring companion, designed with love to keep you safe, supported, and never alone.",
+        "get_started": "Get Started Now",
+        "sign_in": "Sign In",
+        "create_account": "Create New Account",
+        "guest_setup": "Or continue with Quick Guest Setup →",
+        "setup_title": "Let's get to know you",
+        "name_label": "Your Name",
+        "phone_label": "Your Phone Number",
+        "contacts_label": "Trusted Contacts (1-8)",
+        "location_perm": "Location Permission",
+        "setup_complete": "Setup complete. I'll help protect you.",
+        "footer_credits": "Created By Yashas.M, Sahana NS, Vishnu R And Samhitha P",
+        "footer_tagline": "with love and passion for Women's Safety Throughout The World!"
+    },
+    "auth": {
+        "sign_in_tab": "Sign In",
+        "create_account_tab": "Create Account",
+        "email_phone_label": "Email or Phone Number",
+        "password_label": "Password",
+        "full_name_label": "Full Name",
+        "confirm_password_label": "Confirm Password",
+        "forgot_password": "Forgot Password?",
+        "remember_me": "Remember me on this device",
+        "demo_login": "Quick Demo Sign In (1-Click)",
+        "passwords_match": "✓ Passwords match",
+        "passwords_mismatch": "✕ Passwords do not match",
+        "password_strength": "Password Strength",
+        "sign_in_button": "Sign In",
+        "register_button": "Create Account",
+        "back_to_welcome": "← Back to Welcome Screen"
+    },
+    "home": {
+        "sos_button": "SOS",
+        "im_safe": "I'm Safe",
+        "safer_routes": "Safer Routes",
+        "emergency_support": "Emergency Support",
+        "check_in": "Check-In Timer",
+        "chatbot": "Safety Companion",
+        "report": "Safety Reporting",
+        "quick_status": "Quick Status",
+        "recent_reports": "Recent Safety Reports",
+        "no_incidents": "No recent incidents reported in your area.",
+        "submit_report": "Submit a report"
+    },
+    "sos": {
+        "help_msg": "Help is on the way. Stay calm.",
+        "alert_sent": "Alert sent to trusted contacts",
+        "cancel": "Cancel SOS"
+    },
+    "profile": {
+        "title": "My Profile",
+        "medical_notes": "Medical Notes",
+        "no_medical_notes": "No notes added.",
+        "trusted_contacts": "Trusted Contacts",
+        "no_contacts": "No contacts added.",
+        "sign_out": "Sign Out / Log Out"
+    }
+}
