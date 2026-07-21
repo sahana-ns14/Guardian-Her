@@ -78,11 +78,22 @@ GMAIL_APP_PASS=your_16_digit_app_password
 
 ---
 
+## 📌 Project Lead & Contact Info
+
+* **Lead Developer**: **Sahana N S**
+* 📧 **Email**: [sahanans873@gmail.com](mailto:sahanans873@gmail.com)
+* 📞 **Phone**: +91 7019269703
+* 📍 **Location**: Bengaluru, Karnataka – 561203
+* 🐙 **GitHub**: [https://github.com/sahana-ns14](https://github.com/sahana-ns14)
+* 💼 **LinkedIn**: [https://www.linkedin.com/in/sahana-ns-8996142bb](https://www.linkedin.com/in/sahana-ns-8996142bb)
+
+---
+
 ## 👥 Contributors & Credits
 
 Created with passion and dedication by:
+- **Sahana N S** (Lead Developer)
 - **Yashas M**
-- **Sahana N S**
 - **Vishnu R**
 - **Samhitha P**
 

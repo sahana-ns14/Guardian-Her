@@ -38,6 +38,17 @@ app.post('/sos', (req, res) => {
 // In-memory mock user database
 const users = [
   {
+    id: 'user_sahana_1',
+    name: 'Sahana N S',
+    email: 'sahanans873@gmail.com',
+    phone: '+917019269703',
+    password: 'password123',
+    medicalNotes: 'No known allergies. Location: Bengaluru, Karnataka',
+    contacts: [
+      { id: 'c1', name: 'Emergency Contact 1', phone: '+917019269703' }
+    ]
+  },
+  {
     id: 'user_demo_1',
     name: 'Aditi Sharma',
     email: 'demo@guardian.her',
