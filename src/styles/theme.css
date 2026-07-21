@@ -1,0 +1,55 @@
+/* 
+  Guardian-Her Main Custom CSS Design System
+  Author: Sahana N S
+  Language: CSS3
+*/
+
+:root {
+  --primary-rose: #f43f5e;
+  --primary-rose-hover: #e11d48;
+  --lavender-glow: rgba(224, 231, 255, 0.4);
+  --bg-dusk: #0f172a;
+  --card-glass: rgba(255, 255, 255, 0.85);
+  --card-glass-dark: rgba(30, 41, 59, 0.85);
+  --border-subtle: rgba(226, 232, 240, 0.6);
+  --shadow-soft: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.01);
+  --shadow-glow: 0 0 20px rgba(244, 63, 94, 0.35);
+}
+
+.dark {
+  --card-glass: rgba(30, 41, 59, 0.9);
+  --border-subtle: rgba(51, 65, 85, 0.8);
+}
+
+/* Base Responsive Layouts */
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background-color: #fdfbf7;
+  color: #1e293b;
+  overflow-x: hidden;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark body {
+  background-color: #0b0f17;
+  color: #f8fafc;
+}
+
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #475569;
+}
