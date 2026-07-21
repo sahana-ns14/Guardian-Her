@@ -6,12 +6,6 @@
 
 ---
 
-## 🎬 Live Platform Demo
-
-![Guardian-Her Walkthrough Demo](guardian_her_demo.gif)
-
----
-
 ## 🌐 Live Application Servers
 
 When running locally in development mode:
