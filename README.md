@@ -78,4 +78,4 @@ GMAIL_APP_PASS=your_16_digit_app_password
 
 ---
 
-*Created with passion and dedication by Sahana N S — Dedicated to Women's Safety Throughout The World!*
+*Dedicated to Women's Safety Throughout The World!*

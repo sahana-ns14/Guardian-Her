@@ -109,9 +109,6 @@ export default function Welcome() {
                     transition={{ delay: 0.8, duration: 0.6 }}
                     className="text-center pt-4 space-y-1"
                 >
-                    <p className="text-xs text-[#6B7280]">
-                        {t('onboarding.footer_credits')}
-                    </p>
                     <p className="text-xs text-[#6B7280] italic">
                         {t('onboarding.footer_tagline')}
                     </p>
