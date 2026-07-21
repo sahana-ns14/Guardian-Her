@@ -1,3 +1,25 @@
+<p align="center">
+  <img src="public/github-banner.png" alt="Sahana N S Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Sahana N S</h1>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sahana-ns14&color=0e75b6" alt="Profile views" />
+</p>
+
+---
+
+### 📌 Sahana N S
+
+- 📧 **Email**: [sahanans873@gmail.com](mailto:sahanans873@gmail.com)
+- 📞 **Phone**: +91 7019269703
+- 📍 **Location**: Bengaluru, Karnataka – 561203
+- 💼 **LinkedIn**: [www.linkedin.com/in/sahana-ns-8996142bb](https://www.linkedin.com/in/sahana-ns-8996142bb)
+- 🐙 **GitHub**: [github.com/sahana-ns14](https://github.com/sahana-ns14)
+
+---
+
 # 🛡️ Guardian-Her - AI Personal Emergency & Safety Companion
 
 **Guardian-Her** is a modern, caring AI safety companion built with React, TypeScript, Vite, Tailwind CSS, and Express. Designed with love and passion for Women's Safety throughout the world.
