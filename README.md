@@ -1,6 +1,6 @@
 # 🛡️ Guardian-Her - AI Personal Emergency & Safety Companion
 
-**Guardian-Her** is a modern, caring AI safety companion built with React, TypeScript, Vite, Tailwind CSS, and Express. Designed with love and passion for Women's Safety throughout the world.
+**Guardian-Her** is a modern, caring AI safety companion built with React, TypeScript, Python, Vite, Tailwind CSS, and Express. Designed with love and passion for Women's Safety throughout the world.
 
 ---
 
