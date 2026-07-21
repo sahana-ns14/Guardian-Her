@@ -8,10 +8,14 @@ import { ArrowLeft, User, Phone, FileText, Users, LogOut, Mail, ShieldCheck } fr
 export default function Profile() {
     const { t } = useTranslation();
     const navigate = useNavigate();
-    const { name, email, phone, medicalNotes, contacts, isAuthenticated, logoutUser } = useProfileStore();
+    const { name, email, phone, medicalNotes, contacts, isAuthenticated, logoutUser, clearProfile } = useProfileStore();
 
     const handleLogout = () => {
+        clearProfile();
         logoutUser();
+        try {
+            localStorage.removeItem('guardianher_profile_v1');
+        } catch (e) {}
         navigate('/welcome');
     };
 

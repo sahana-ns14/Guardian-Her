@@ -15,7 +15,7 @@ export default function Settings() {
     const { i18n } = useTranslation();
     const navigate = useNavigate();
     const { connect, status: bleStatus, isSupported } = useBluetooth();
-    const { contacts, addContact, removeContact, clearProfile } = useProfileStore();
+    const { contacts, addContact, removeContact, clearProfile, logoutUser } = useProfileStore();
 
     const [newContactName, setNewContactName] = useState('');
     const [newContactPhone, setNewContactPhone] = useState('');
@@ -37,10 +37,12 @@ export default function Settings() {
     };
 
     const handleLogout = () => {
-        if (confirm("Logout will reset your session. Proceed?")) {
-            clearProfile();
-            navigate('/welcome');
-        }
+        clearProfile();
+        logoutUser();
+        try {
+            localStorage.removeItem('guardianher_profile_v1');
+        } catch (e) {}
+        navigate('/welcome');
     };
 
     const currentLang = {
