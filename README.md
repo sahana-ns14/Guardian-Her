@@ -4,8 +4,6 @@
 
 **Guardian-Her** is an AI-powered, privacy-first women's safety platform designed to provide intelligent emergency assistance and proactive safety support. The platform integrates one-tap SOS alerts, real-time location sharing, AI-powered safety guidance, safe route navigation, emergency contact management, multilingual accessibility, and offline-ready Progressive Web App (PWA) capabilities to help users stay safe anytime, anywhere.
 
-Built with React, TypeScript, Python, Vite, Tailwind CSS, and Express.
-
 ---
 
 ## 🌐 Live Application Servers
