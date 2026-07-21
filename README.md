@@ -11,7 +11,7 @@
 When running locally in development mode:
 
 * **Frontend Web Application (Vite + React)**: [`http://localhost:5173/`](http://localhost:5173/)
-* **Backend API & Emergency Server (Node/Express)**: [`http://localhost:3000`](http://localhost:3000)
+* **Backend API & Emergency Server (Node/Express)**: [`http://localhost:5000`](http://localhost:5000)
 
 ---
 
@@ -48,7 +48,7 @@ cd server
 npm install
 npm run dev
 ```
-*Backend server runs on port 3000 (`http://localhost:3000`)*
+*Backend server runs on port 5000 (`http://localhost:5000`)*
 
 ### 3. Run the Frontend Application
 ```bash
