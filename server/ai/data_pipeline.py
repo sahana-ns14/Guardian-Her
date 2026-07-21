@@ -8,7 +8,7 @@ geofencing coordinates, and emergency alert statistics.
 
 import json
 import csv
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Tuple
 
 class SafetyDataPipeline:
     def __init__(self):

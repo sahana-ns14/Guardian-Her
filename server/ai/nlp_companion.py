@@ -9,7 +9,7 @@ distress signal parsing, and real-time supportive safety conversations.
 import re
 import math
 import json
-from typing import List, Dict, Tuple, Optional
+from typing import List, Dict, Tuple, Optional, Any
 
 class SafetyNLPEngine:
     """
@@ -78,7 +78,7 @@ class SafetyNLPEngine:
         best_intent = max(matched_scores, key=matched_scores.get)
         return best_intent, matched_scores[best_intent]
 
-    def generate_response(self, user_text: str) -> Dict[str, typing.Any]:
+    def generate_response(self, user_text: str) -> Dict[str, Any]:
         """
         Processes incoming message and returns structured safety response.
         """
